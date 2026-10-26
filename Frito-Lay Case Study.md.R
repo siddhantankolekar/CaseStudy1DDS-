@@ -1,5 +1,7 @@
 #Project - FritoLay DDSAnalytics
 
+#Video Link: https://www.youtube.com/watch?v=3dSzMTUk5xI
+
 library(tidyverse)
 
 data <- read.csv(file.choose(), header = TRUE)
