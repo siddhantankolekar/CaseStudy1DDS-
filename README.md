@@ -14,6 +14,7 @@ When these factors were considered together in a multivariable logistic regressi
 I evaluated three predictive approaches: K-nearest neighbors (KNN), Naive Bayes(NB), and Logistic Regression(LR). All three models were evaluated using sensitivity, specificity, accuracy, and balanced accuracy. Logistic regression provided the strongest overall balance while also offering greater interpretability for business decision-making.
 
 #Table Comparing Model Outcomes
+
 Model	Sensitivity	Specificity	Accuracy	Balanced Accuracy
 KNN	    71.4%	      63.5%	    64.8%	    67.4%
 NB	    61.9%	      69.4%	    68.2%	    65.7%
